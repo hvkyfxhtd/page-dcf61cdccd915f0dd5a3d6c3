@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "552f388ddbe5193be2ea3d62",
+  "owner": "hvkyfxhtd",
+  "repo": "page-dcf61cdccd915f0dd5a3d6c3",
+  "title": "ZBJ项目(ZBJ)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "dcf61cdccd915f0dd5a3d6c3",
+      "a": "ZBJ项目(ZBJ)",
+      "b": "2027最新官网",
+      "entity": "ZBJ项目(ZBJ)",
+      "brand": "ZBJ项目(ZBJ)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a6f177e52bc70c3962155768d61b3e6429c9e50b66adf22ab0c7dec7cc65e9f0",
+      "content": {
+        "primary_entity": "ZBJ项目(ZBJ)",
+        "keyword1": "ZBJ项目(ZBJ)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据常用设备挑选客户端，订阅导入后即可开始使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "先确定设备数量与用量，再选择按月或按年订阅。",
+          "AI_CLOSING_TITLE": "选对套餐轻松连接",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，覆盖每月100GB到1000GB流量以及3到20台设备同时在线需求。旗舰版加入IPLC专线游戏加速优化与全节点原生流媒体解锁，团队版支持企业定制路由与专属客户经理。按月付费灵活，按年付可节省两个月费用，适合不同规模的使用场景。",
+          "AI_FEATURES_INTRO": "从流量额度、设备数量与订阅周期三个角度对比，更容易找到匹配的版本。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB流量、3台设备在线，按年付仅需¥150/年，适合轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月300GB流量、5台设备在线，含IPLC专线游戏加速，按年付¥350/年。",
+          "AI_FEATURE_TEXT_3": "团队版每月1000GB流量、20台设备在线，支持企业定制路由，按年付¥850/年。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "旗舰版加速优化",
+          "AI_FEATURE_TITLE_3": "团队版企业配置",
+          "AI_GUIDE_INTRO": "按使用需求选择版本，确认设备数量与流量是否够用，再依照客户端文档完成订阅配置。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "ZBJ项目提供按月与按年订阅的海外加速方案，三档套餐分别面向轻度用户、流媒体与游戏玩家以及多设备团队。基础版、旗舰版、团队版在流量、设备数量与节点权益上各有侧重，可按实际用量选择。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备需求",
+          "AI_HIGHLIGHT_1": "基础版每月100GB，3台设备",
+          "AI_HIGHLIGHT_2": "旗舰版IPLC专线游戏加速",
+          "AI_HIGHLIGHT_3": "团队版20台设备企业路由",
+          "AI_PLANS_INTRO": "基础版每月100GB流量与3台设备；旗舰版每月300GB与5台设备，含IPLC专线；团队版每月1000GB与20台设备，支持企业定制路由。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量与同时在线设备数量，在基础版、旗舰版和团队版之间选择合适的一档。",
+          "AI_STEP_TEXT_2": "确认手机、电脑或路由器等设备的数量与系统版本，查看对应客户端的适配要求。",
+          "AI_STEP_TEXT_3": "按照所选客户端的订阅文档导入配置，连接节点后即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务版本",
+          "AI_STEP_TITLE_2": "确认设备适配",
+          "AI_STEP_TITLE_3": "配置订阅连接",
+          "AI_VISUAL_TITLE": "ZBJ项目加速方案",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "ZBJ项目(ZBJ)支持哪些设备？",
+          "AI_FAQ_ANSWER_1": "支持常见桌面与移动系统，具体可在客户端选择页查看对应版本。",
+          "AI_FAQ_QUESTION_2": "套餐可以按月付费吗？",
+          "AI_FAQ_ANSWER_2": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，均支持按月付费，也提供按年付方案。",
+          "AI_FAQ_QUESTION_3": "如何导入订阅？",
+          "AI_FAQ_ANSWER_3": "在所选客户端内找到订阅导入功能，粘贴订阅链接后更新节点即可。",
+          "AI_FAQ_QUESTION_4": "旗舰版与基础版区别在哪里？",
+          "AI_FAQ_ANSWER_4": "旗舰版提供 300GB 流量、5 台设备、IPLC 专线及流媒体解锁，基础版为 100GB 与 3 台设备。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供 1000GB 流量与 20 台设备支持，适合多人协作或设备较多的环境。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kqu2hrw3ehvaq13a.com",
+    "host": "xn--9kqu2hrw3ehvaq13a.com"
+  },
+  "file_hashes": {
+    "index.html": "b87488986c553cb1ff93e6aa550a44d516e60f0f22a71c3a5ad08fd3f78b4c70",
+    "sitemap.xml": "7b80e6723f8665055b00a52dfbcbc3afd9c4326b81d65b64b622210f92c35c2e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9d03459a5e5bef7eec2b7ff0a7d8e1463dfb451339e0f8e504036729070df8a2",
+    "robots.txt": "dba15d5f8e337b173bc895ea0cc7ebe24fd18580eca9278855159d678ad8df69",
+    "6e03c4ad57218a0e98a7260bb70cab46.txt": "af5c556da3eb157f90bfbe040387725bf4da66062209fe2e32a8fa5b6a3865b8"
+  },
+  "revision": "f97715d0da280afbe72975c65025ef92de5ce49d3a8220298d3529a894f9498f"
+}
